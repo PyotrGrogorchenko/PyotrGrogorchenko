@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a beginner front-end developer
+
+- I'm in the team [lubimovka.ru](https://lubimovka.ru/)
+- Improving JavaScript/TypeScript and React skills
+- I like clean code
 
 ### Languages and tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width=30 height=30 alt="JavaScript"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width=30 height=30 alt="TypeScript"/>
