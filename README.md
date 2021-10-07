@@ -9,7 +9,7 @@
   height=30 alt="nodejs"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" width=30 height=30 alt="postgresql"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png" width=30 height=30 alt="Git"/>
 
 ### Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyotrGrogorchenko&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyotrGrogorchenko&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyotrGrogorchenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PyotrGrogorchenko/PyotrGrogorchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
