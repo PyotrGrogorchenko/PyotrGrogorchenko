@@ -5,9 +5,6 @@
 - I'm in the team [lubimovka.ru](https://lubimovka.ru/)
 - Improving JavaScript/TypeScript and React skills
 - I like clean code
-- My npm packages:  
-    Test  
-    Test
 
 ### Languages and tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width=30 height=30 alt="JavaScript"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width=30 height=30 alt="TypeScript"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" width=40 height=30 alt="React"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=30 height=30 alt="HTML 5"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width=30 height=30 alt="CSS"/>
