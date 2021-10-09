@@ -5,8 +5,8 @@
 - I'm in the team [lubimovka.ru](https://lubimovka.ru/)
 - Improving JavaScript/TypeScript and React skills
 - I like clean code
-- My npm packages: 
-    Test
+- My npm packages:  
+    Test  
     Test
 
 ### Languages and tools
