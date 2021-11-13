@@ -2,7 +2,7 @@
 
 ## I'm a beginner front-end developer
 
-- I'm in the team [lubimovka.ru](https://lubimovka.ru/)
+- I'm in the team [lubimovka.ru](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend)
 - Improving JavaScript/TypeScript and React skills
 - I like clean code
 
