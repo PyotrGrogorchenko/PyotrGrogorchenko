@@ -1,4 +1,4 @@
-### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="189" height="255">
+### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
 
 ## I'm a beginner front-end developer
 
