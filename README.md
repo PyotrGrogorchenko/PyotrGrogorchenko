@@ -12,7 +12,7 @@
   height=30 alt="nodejs"/> <img src="https://github.com/PyotrGrogorchenko/pic/blob/main/logo/Postgresql.png" width=30 height=30 alt="postgresql"/> <img src="https://github.com/PyotrGrogorchenko/pic/blob/main/logo/GitHub.png" width=30 height=30 alt="Git"/>
 
 ### Problems
-<img src="https://github.com/PyotrGrogorchenko/pic/blob/main/logo/LeetCode.png" width=150 height=50 alt="JavaScript"/>
+<p><a href="https://github.com/PyotrGrogorchenko/algo/tree/main/src/leetcode"><img src="https://github.com/PyotrGrogorchenko/pic/blob/main/logo/LeetCode.png" width=150 height=50 alt="JavaScript"/></a></p>
 
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyotrGrogorchenko&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyotrGrogorchenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
