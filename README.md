@@ -11,6 +11,8 @@
  <img src="https://github.com/PyotrGrogorchenko/pic/blob/main/logo/Docker.webp" width=40 height=30 alt="docker"/> <img src="https://github.com/PyotrGrogorchenko/pic/blob/main/logo/Redux.png" width=30 height=30 alt="redux"/> <img src="https://github.com/PyotrGrogorchenko/pic/blob/main/logo/ReduxSaga.png" width=40 height=30 alt="redux-saga"/> <img src="https://github.com/PyotrGrogorchenko/pic/blob/main/logo/Webpack.svg" width=30 height=30 alt="webpack"/> <img src="https://github.com/PyotrGrogorchenko/pic/blob/main/logo/Node.png" width=40
   height=30 alt="nodejs"/> <img src="https://github.com/PyotrGrogorchenko/pic/blob/main/logo/Postgresql.png" width=30 height=30 alt="postgresql"/> <img src="https://github.com/PyotrGrogorchenko/pic/blob/main/logo/GitHub.png" width=30 height=30 alt="Git"/>
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=PePeGrigorchenko&theme=dark)](https://github.com/PyotrGrogorchenko/algo/tree/main/src/leetcode)
+
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyotrGrogorchenko&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyotrGrogorchenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
