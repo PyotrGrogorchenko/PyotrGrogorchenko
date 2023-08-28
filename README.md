@@ -1,8 +1,7 @@
 ### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
 
-## I'm a beginner front-end developer
+## I'm a front-end developer
 
-- I'm in the team [lubimovka.ru](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend)
 - Improving JavaScript/TypeScript and React skills
 - I like clean code
 
